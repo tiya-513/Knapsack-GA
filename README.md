@@ -30,6 +30,7 @@ Given a list of items, each with a weight and a value, determine the most valuab
 
 [0, 1, 0, 1, 0, 0, 1]
 Fitness value = 1735
+**Dataset used:** [P06](https://people.sc.fsu.edu/~jburkardt/datasets/knapsack_01/knapsack_01.html)
 
 ## Sample output
 
