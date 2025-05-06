@@ -33,7 +33,7 @@ Fitness value = 1735
 
 ## Sample output
 
-![Fitness Graph](images/Figure_1.png)
+![Fitness Graph](Figure_1.png)
 
 ## Requirements
 
